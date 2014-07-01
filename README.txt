@@ -1,0 +1,1 @@
+This is an introductory Rails project made as part of The Odin Project: http://www.theodinproject.com/web-development-101/ruby-on-rails
